@@ -1,6 +1,23 @@
-- 👋 Hi, I’m Aqsa
-- 👀 I’m interested in learning and exploring new things about Computer Science
-- 💞️ I am really interested in learning Web Development. It is so interesting for me to create amazing websites by adding different features, functionalities and integration with
-different websites for the people use!
+👋 Hey there! I'm Aqsa
 
+I'm a passionate **React Developer** who loves crafting interactive, user-friendly web applications. I enjoy writing clean and maintainable code, and I'm always eager to learn and grow in the world of frontend development.
 
+## 💻 What I Do
+- Build responsive and dynamic UIs with **React.js**
+- Style beautifully with **CSS, Sass and MUI**
+- Manage state using **Context API**, **Redux**, and **React Hooks**
+- Work with **APIs**, handle async logic, and build reusable components
+- Collaborate on projects and continuously explore new tools and techniques
+
+## 🚀 Currently Exploring
+- Deep diving into **Redux (without Redux Toolkit)**
+- Enhancing my **project architecture** and best practices
+- Working on side projects to strengthen my portfolio
+
+## 📫 Let’s Connect
+Feel free to check out my work and connect with me:
+
+- 💼 https://www.linkedin.com/in/aqsa-mehdi-a62376207/
+- 📧 aqsamehdiali26@gmail.com
+
+Thanks for stopping by! 😊
