@@ -10,7 +10,7 @@ I'm a passionate **React Developer** who loves crafting interactive, user-friend
 - Collaborate on projects and continuously explore new tools and techniques
 
 ## 🚀 Currently Exploring
-- Deep diving into **Redux (without Redux Toolkit)**
+- Deep diving into **Tailwind CSS**
 - Enhancing my **project architecture** and best practices
 - Working on side projects to strengthen my portfolio
 
