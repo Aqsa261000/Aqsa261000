@@ -29,18 +29,8 @@ I'm a passionate **React Developer** who loves crafting interactive, user-friend
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
----
-
-## 🏗 Projects
-- **[React KickKart Deployed](https://github.com/Aqsa261000/react-kickkart-deployed)** – Full-featured React eCommerce application
-
----
-
 ## 📫 Let’s Connect
+Feel free to check out my work and connect with me:
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/aqsa-mehdi-a62376207/)
 - 📧 aqsamehdiali26@gmail.com
-
----
-
-## 📊 GitHub Stats
-![Aqsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aqsa261000&show_icons=true&theme=radical)
