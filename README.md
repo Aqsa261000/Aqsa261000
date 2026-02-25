@@ -13,6 +13,7 @@ I'm a passionate **React Developer** who loves crafting interactive, user-friend
 - Deep diving into **Tailwind CSS**
 - Enhancing my **project architecture** and best practices
 - Working on side projects to strengthen my portfolio
+- Learning Python Programming Language for learning Artificial Intelligence
 
 ## 📫 Let’s Connect
 Feel free to check out my work and connect with me:
